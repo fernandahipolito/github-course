@@ -1,3 +1,6 @@
-#Git Course
+haushUHASIUahsiuHSIUhs #Git Course
 
-Este é um repositório teste para ensinar como funciona.
+Este é um repositório teste para ensinar como o Git funciona.
+
+Saiba mais no [williamjusten.com.br](http://williamjusten.com.br)
+
